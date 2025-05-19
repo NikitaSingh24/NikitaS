@@ -1,4 +1,4 @@
-# NikitaS
+# Nikita Singh
  
 # About Me 👨‍💻
 
