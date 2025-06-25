@@ -23,7 +23,7 @@ collected by ICAR, the climatic conditions and the water availability in the reg
 - **Developer Tools**: VS code, GitHub and more  
 
 ### 🎯 Current Focus  
-- Exploring ** AI agents**, and **healthcare AI applications**.  
+- Exploring AI agents, and **healthcare AI applications**.  
 - Enhancing my **DSA, AI, and Web3** skills.  
   
 
