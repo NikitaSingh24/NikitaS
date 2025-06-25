@@ -5,14 +5,14 @@
 ## 👋 Hi, I'm NIKITA SINGH
 I’m a passionate **B.Tech student in Computer Science Engineering (CSE)** at **Government Engineering College, Raipur ('25 batch)**.
 ### 🚀 What I Do  
-- **Web Development**: Experienced in building scalable web applications.  
+- Web Development: Experienced in building scalable web applications.  
  Developed  a farmer's centric Web & App built with ReactJs, Tailwind CSS, JavaScript & Firebase support.It's a smart web-built app for farmers which recommends crops according to the data
 collected by ICAR, the climatic conditions and the water availability in the regional areas.  
-- **AI/ML Development**:  
-  - Created a **Stress Detection Algorithm ** integrating  with IoT sensors for intelligent recommendations.  
+- AI/ML Development:  
+  - Created a Stress Detection Algorithm integrating  with IoT sensors for intelligent recommendations.  
   - Work on breast cancer classification model.  
-  - Working on deep learning based **Deep face recognition system** to enhance the deep face recognition system experience.  
-- **Programming & Problem-Solving**: Proficient in **Python, C++, C**.  
+  - Working on deep learning based Deep face recognition system to enhance the deep face recognition system experience.  
+- Programming & Problem-Solving: Proficient in **Python, C++, C**.  
 - **UI/UX Design**: Leveraged Material-UI, Tailwind CSS, and basic Unity ,Vuforia to build modern and responsive interfaces.  
 
 ### ✨ My Skills  
