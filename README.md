@@ -39,7 +39,7 @@ To explore diverse technology fields, build innovative projects, and carve a str
 ---
 
 ## 🌐 Socials:
- LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/nikitasingh024) 
+ [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/nikitasingh024) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
